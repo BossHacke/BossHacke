@@ -5,6 +5,7 @@
         <img src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
     </a>
 </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BossHacke&show_icons=true&icon_color=CE1D2D" />
 
