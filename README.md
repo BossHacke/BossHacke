@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,graphql,mysql,nestjs,firebase)](https://github.com/BossHacke)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,graphql,mysql,nestjs)](https://github.com/BossHacke)
 
 <img src="https://github-readme-stats.vercel.app/api?username=BossHacke&show_icons=true&icon_color=CE1D2D" />
 
