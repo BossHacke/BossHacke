@@ -1,9 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
     <h1 align="center">Hi 👋, I'm Vo Nguyen Phi Hung</h1>
-    <i>About me</i><br/>
+    <i>About me</i>
+    <br/>
     <a href="mailto:vonguyenphihung123@gmail.com">
         <img src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
     </a>
+    <br/>
+    <i>I am a senior student at the University of Natural Resources and Environment majoring in software technology. I'm passionate about technology, art, and love bringing these works of art to life using code. My goal in the future is to become an application developer who is proficient in Frontend Developer for both Web and Mobile and has some UX/UI design skills. I am confident in my ability to self-study because I have researched many new technologies and applications to support my passion. Besides programming, I also like playing guitar.</i>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Languages and Tools:</h3>
