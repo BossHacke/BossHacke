@@ -1,11 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<p align="center">
     <i>About me</i><br/>
     <a href="mailto:vonguyenphihung123@gmail.com">
         <img src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
     </a>
-</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BossHacke&show_icons=true&icon_color=CE1D2D" />
 
