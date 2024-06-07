@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,graphql,mysql,nestjs)](https://github.com/BossHacke)
 
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BossHacke&theme=radical&exclude=dart,flutter,java,git,github,graphql,mysql,nestjs,sql"/>
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BossHacke&theme=radical&exclude=dart,flutter,java,git,github,graphql,mysql,nestjs"/>
 
 <a href="https://github.com/BossHacke">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossHacke&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent" />
